@@ -19,11 +19,11 @@ moment.locale('es');
 
 const website = {
     web: 'https://beforelife.me',
-    apikey: 'xxxx' // ambil apikey nya di website https://beforelife.me
+    apikey: 'HC-kNZ5HMVfuiziipJ' // ambil apikey nya di website https://beforelife.me
 }
 
 const owner = [
-    ['6281281872699', 'ʜᴇᴀᴠʏ ᴄʀᴀꜰᴛ'],
+    ['6283106133182', 'ʜᴇᴀᴠʏ ᴄʀᴀꜰᴛ'],
 ];
 
 const menu = {
